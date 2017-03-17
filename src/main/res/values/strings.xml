@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MFBReader Library</string>
+
+    <!-- reader -->
+
+    <string name="first_page">已经到第一页了.</string>
+    <string name="last_page">已经到最后一页了.</string>
+    <string name="exit_confirm">再按一次返回键退出</string>
+    <string name="exit_reader">再按一次返回键退出阅读界面</string>
+</resources>
