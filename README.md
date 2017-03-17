@@ -1,4 +1,5 @@
 # reader-engine
-A module use for reader\n
+A module use for reader
+
 Cut from this:
 https://github.com/geometer/FBReaderJ
